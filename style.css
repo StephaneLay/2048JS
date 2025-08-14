@@ -37,7 +37,12 @@ h2{
 
 .tile{
     width: 120px;
+    height: 120px;
+    font-size: 40px;
     background-color: gray;
     margin: 5px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
